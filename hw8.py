@@ -1,2 +1,0 @@
-''' plaindrome'''
-num=int
