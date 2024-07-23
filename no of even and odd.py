@@ -1,5 +1,5 @@
 '''
-you are given with a space separated integer list find no of even eemnts and no of odd elements in a given list'''
+you are given with a space separated integer list find no of even elemnts and no of odd elements in a given list'''
 n=list(map(int,input().split(" ")))
 even_cnt=0
 odd_cnt=0
