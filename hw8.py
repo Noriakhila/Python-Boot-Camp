@@ -1,0 +1,2 @@
+''' plaindrome'''
+num=int
