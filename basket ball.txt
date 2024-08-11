@@ -1,0 +1,14 @@
+n=int(input())
+k=int(input())
+arr=list(map(int,input().split(" ")))
+ans=0
+for i in range(n-k+1):
+sub_arr=arr[i:i+k]
+sum=0
+for e in range(1,k+1): 
+s+=sub_arr[ind-1]*ind
+if(s>ans):
+ans-sum
+print(ans)
+
+
